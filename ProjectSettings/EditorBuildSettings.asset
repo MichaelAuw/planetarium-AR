@@ -12,7 +12,31 @@ EditorBuildSettings:
     path: Assets/Start.unity
     guid: c8dea7c10d9a27545854e415376792ab
   - enabled: 1
-    path: Assets/Earth.unity
+    path: Assets/AR_Sun.unity
+    guid: ba4822710314b3131a8c29f03f8e540a
+  - enabled: 1
+    path: Assets/AR_Mercury.unity
+    guid: 57e96a0f6a090150f8ede930589632a0
+  - enabled: 1
+    path: Assets/AR_Venus.unity
+    guid: 220b3b2354c36ab0a83114d46f752903
+  - enabled: 1
+    path: Assets/AR_Earth.unity
     guid: 8bb6719748d2a5a41ba0a78d1735f489
+  - enabled: 1
+    path: Assets/AR_Mars.unity
+    guid: 4b1e956292bca7b37bde58acefaf149b
+  - enabled: 1
+    path: Assets/AR_Jupiter.unity
+    guid: ef230e7c4ea48790293c2b8c48a429b7
+  - enabled: 1
+    path: Assets/AR_Saturn.unity
+    guid: ff1ae101288644ea8a239d9bc21ff485
+  - enabled: 1
+    path: Assets/AR_Uranus.unity
+    guid: d21aa67f4b0b971f9a820b6d045f789a
+  - enabled: 1
+    path: Assets/AR_Nepune.unity
+    guid: 72ce406317e15b01cbd49f4e3ad1a80a
   m_configObjects:
     EasyAR.Settings: {fileID: 11400000, guid: 3d57de142f7b64a4cae705d1444056d4, type: 2}
