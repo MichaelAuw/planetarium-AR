@@ -36,7 +36,7 @@ EditorBuildSettings:
     path: Assets/AR_Uranus.unity
     guid: d21aa67f4b0b971f9a820b6d045f789a
   - enabled: 1
-    path: Assets/AR_Nepune.unity
-    guid: 72ce406317e15b01cbd49f4e3ad1a80a
+    path: Assets/AR_Neptune.unity
+    guid: 439a8abf81e2cee4dbf2518e2b84dca7
   m_configObjects:
     EasyAR.Settings: {fileID: 11400000, guid: 3d57de142f7b64a4cae705d1444056d4, type: 2}

@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class PlayManager : MonoBehaviour
@@ -19,7 +20,7 @@ public class PlayManager : MonoBehaviour
     }
 
     public void ReturnButtonClicked(){
-        Application.LoadLevel("Start");
+        SceneManager.LoadScene("Start");
     }
 
     public void InformationButtonClicked(){

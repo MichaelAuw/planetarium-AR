@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class Menu_Manager : MonoBehaviour
@@ -22,7 +23,7 @@ public class Menu_Manager : MonoBehaviour
     }
 
     public void PlayButtonClicked(){
-        Application.LoadLevel("Start");
+        SceneManager.LoadScene("Start");
     }
 
     public void CreditsButtonClicked(){
